@@ -23,6 +23,7 @@ const Canvas = ({
 
       <OrbitControls
         autoRotate={autoRotate}
+        autoRotateSpeed={8}
         enableRotate={true}
         enablePan={false}
         enableZoom={false}
