@@ -28,7 +28,7 @@ const Canvas = ({
         enablePan={false}
         enableZoom={false}
       />
-      <color attach="background" args={["#ECEFF1"]} />
+      {/* <color attach="background" args={["#ECEFF1"]} /> */}
     </ThreeCanvas>
   );
 };
